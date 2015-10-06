@@ -1,0 +1,10 @@
+D:\RND\SSISCustomComponents\SSISCustomComponents\bin\Debug\SSISCustomComponents.dll
+D:\RND\SSISCustomComponents\SSISCustomComponents\bin\Debug\SSISCustomComponents.pdb
+D:\RND\SSISCustomComponents\SSISCustomComponents\obj\Debug\ResolveAssemblyReference.cache
+D:\RND\SSISCustomComponents\SSISCustomComponents\obj\Debug\SSISCustomComponents.dll
+D:\RND\SSISCustomComponents\SSISCustomComponents\obj\Debug\SSISCustomComponents.pdb
+C:\Program Files (x86)\Microsoft SQL Server\100\DTS\PipelineComponents\SSISCustomComponents.dll
+C:\Program Files (x86)\Microsoft SQL Server\100\DTS\PipelineComponents\SSISCustomComponents.pdb
+D:\RNDProjects\SSISCustomComponents\SSISCustomComponents\obj\Debug\ResolveAssemblyReference.cache
+D:\RNDProjects\SSISCustomComponents\SSISCustomComponents\obj\Debug\SSISCustomComponents.dll
+D:\RNDProjects\SSISCustomComponents\SSISCustomComponents\obj\Debug\SSISCustomComponents.pdb
